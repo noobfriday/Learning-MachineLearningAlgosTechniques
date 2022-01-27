@@ -8,4 +8,4 @@ Part 2 - Build an AIML model to perform focused marketing by predicting the pote
 
 
 
-Skills and Tools used: Logistic Regression, Naive Bayes, KNN, Classification
+Skills and Tools used: Logistic Regression, Naive Bayes, KNN, Classification.
