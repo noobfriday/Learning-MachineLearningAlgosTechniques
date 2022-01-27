@@ -7,6 +7,4 @@ Based on historical data, design a performance ranking model for professional cr
 Work on various multimedia data for dimension reduction.
 
 
-Skills and Tools
-
-Clustering, Support Vector Machines, Principal Component Analysis, Classification, Python
+Skills and Tools used: Clustering, Support Vector Machines, Principal Component Analysis, Classification, Python.
